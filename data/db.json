@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": "141b",
+      "title": "Barcelona match!",
+      "completed": false,
+      "userId": 1
+    },
+    {
+      "id": "f13a",
+      "title": "Australia vs Pakistan!",
+      "completed": false,
+      "userId": 1
+    },
+    {
+      "id": "d664",
+      "title": "Madrid!",
+      "completed": false,
+      "userId": 1
+    }
+  ]
+}
